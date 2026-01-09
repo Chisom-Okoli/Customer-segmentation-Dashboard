@@ -59,4 +59,10 @@ The dashboard focuses on:
 - **Analysis Techniques:** Segmentation, trend analysis, and profiling
 
 
+## Dashboard Preview
+
+Here is a snapshot of the **Customer Segmentation Dashboard** created in Excel:
+
+![Dashboard Screenshot](https://github.com/Chisom-Okoli/Customer-segmentation-Dashboard/blob/main/customer%20segmentation%20dashboard.png)
+
 
